@@ -1,0 +1,3 @@
+Command: cmd:whoami
+Status: SUCCESS: cmd executed - whoami
+Time: 13/04/2026 12:02:56 AM
