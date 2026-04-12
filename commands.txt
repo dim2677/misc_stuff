@@ -1,0 +1,4 @@
+alive
+msg:Injection successful - GitHub C2 is working!
+get C:\Windows\win.ini
+cmd:whoami
