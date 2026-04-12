@@ -1,3 +1,0 @@
-Command: msg:Injection successful - GitHub C2 is working!
-Status: SUCCESS: Message displayed
-Time: 12/04/2026 11:23:34 PM
