@@ -1,0 +1,3 @@
+Command: get C:\Users\dima_2\Desktop\Evil\Secrets.txt
+Status: SUCCESS: File uploaded - C:\Users\dima_2\Desktop\Evil\Secrets.txt (20 bytes)
+Time: 12/04/2026 11:27:31 PM
