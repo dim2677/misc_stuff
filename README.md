@@ -1,2 +1,2 @@
-# CRT Demo - AppDomainManger Injection & Data Exfil
-miscellaneous
+# CRT Demo
+AppDomainManger Injection & Data Exfil
