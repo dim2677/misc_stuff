@@ -1,0 +1,3 @@
+Command: cmd:systeminfo
+Status: SUCCESS: cmd executed - systeminfo
+Time: 13/04/2026 12:16:37 AM
