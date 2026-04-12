@@ -1,0 +1,3 @@
+Command: alive
+Status: SUCCESS: Client is alive | Hostname: DELL-PC | User: dima_2
+Time: 12/04/2026 11:22:00 PM
