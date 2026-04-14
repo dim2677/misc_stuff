@@ -1,1 +1,2 @@
-msg:Hi
+get:C:\Users\Dima\source\repos\Evil\Demo\Secrets.txt
+msg:got it ;-)
