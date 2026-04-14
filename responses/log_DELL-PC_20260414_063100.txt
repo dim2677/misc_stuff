@@ -1,0 +1,4 @@
+Command: cmd:systeminfo
+Status: FAILED: cmd:systeminfo | Error: Length cannot be less than zero.
+Parameter name: length
+Time: 14/04/2026 4:31:00 PM
