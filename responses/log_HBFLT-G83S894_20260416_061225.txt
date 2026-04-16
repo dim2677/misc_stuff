@@ -1,0 +1,3 @@
+Command: msg:CRT DEMO - Exfil successful - We're done here!
+Status: SUCCESS: Message displayed
+Time: 16/04/2026 4:12:25 PM
