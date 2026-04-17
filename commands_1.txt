@@ -1,6 +1,6 @@
 #alive:
 #get:C:\Users\Dima\source\repos\Evil\Demo\Secrets.txt
 #run:calc.exe
-cmd:dir /s secrets.txt
+#cmd:dir /s secrets.txt
 #cmd:systeminfo
 msg:CRT DEMO - Exfil successful - We're done here!
