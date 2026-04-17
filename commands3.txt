@@ -1,1 +1,0 @@
-get:C:\Users\DVZ\Downloads\aaa\Demo\secrets.txt
